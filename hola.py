@@ -12,3 +12,7 @@ print("el resultado de la suma es:", resultado)
 nombre = input("ingrese su nombre: ")
 edad = input("ingrese su edad: ")
 print()
+
+#esto es un cambio en la rama mi-rama
+
+#este es mi ultimo cambio
