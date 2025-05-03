@@ -1,18 +1,14 @@
-print("hola mundo")
+numero = 6
+numero1 = 3
+suma = numero + numero1
+print(suma)
 
-print(2)
+numero1 = int(input("ingrese el primer numero: "))
+numero2 = int(input("ingrese el segundo numero: "))
+resultado = numero1 + numero2
+print("el resultado de la suma es:", resultado)
 
-prueba= 2
-prueba = 5
-numero_1 = '3'
-numero_2 = '5'
 
-prueba = (numero_1 + numero_2) #aca estamos sumando prueba 1 y numero2
-'''estos son para hacer una explicacion mas extensa'''
-
-texto = "soy programador"
-
-print(type(texto))
-print(type(prueba))
-
-#este es mi ultimo cambio
+nombre = input("ingrese su nombre: ")
+edad = input("ingrese su edad: ")
+print()
